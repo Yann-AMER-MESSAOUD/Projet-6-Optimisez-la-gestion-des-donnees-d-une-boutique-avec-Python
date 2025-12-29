@@ -57,9 +57,9 @@ L’objectif central de cette mission est de réconcilier des données issues de
 ---
 
 ## 👤 Contact
-**Auteur·e :** [Ton Nom Ici]  
-**LinkedIn :** [Lien vers ton profil]  
-**Email :** [Ton email ici]
+- LinkedIn : [[lien](https://www.linkedin.com/in/yann-amer-messaoud-238b0b208/)]
+- **Auteur** : Yann AMER MESSAOUD 
+- **Contact** : yann.amermessaoud@outlook.fr
 
 ---
 *Projet réalisé dans le cadre de la formation Data Analyst.*
